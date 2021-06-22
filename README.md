@@ -1,2 +1,2 @@
 # Churn-Data-Prediction
-Churn Data Prediction using Logistic Regression. In this Machine learning model I used Supervised Learning.
+Churn Data Prediction using Logistic Regression. In this Machine learning model I used Supervised Learning. Here Supervised learning is the machine learning task of learning a function that maps an input to an output based on example input-output pairs. This Churn Data Prediction model I using Logistic Regression, it uses a different method for estimating the parameters, which gives better results–better meaning unbiased, with lower variances. Get beyond the frustration of learning odds ratios, logit link functions, and proportional odds assumptions on your own.
